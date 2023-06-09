@@ -1,0 +1,10 @@
+.cards__image {
+  width: 160px;
+  height: 160px;
+  border-radius: 10px;
+  transition-duration: 0.7s;
+  transition-delay: 0.1s;
+}
+.cards__image:hover {
+  transform: scale(200%);
+}

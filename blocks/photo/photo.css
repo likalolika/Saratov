@@ -1,0 +1,22 @@
+@import url(./__title/photo__title.css);
+@import url(./__link/photo__link.css);
+.photo {
+  min-height: 890px;
+  background-image: url(../../images/bridge_day.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: end;
+  position: relative;
+  transition-property: background-image;
+  transition-duration: 2s;
+  transition-timing-function: ease-in;
+}
+.photo:hover {
+  background: url(../../images/saratov_bridge.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,11 @@
+.photo__title {
+  padding-top: 100px;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 1.15;
+  color: white;
+  width: 648px;
+  padding-bottom: 70px;
+  margin: 0 auto;
+  opacity: 0.5;
+}

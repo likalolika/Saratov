@@ -1,0 +1,7 @@
+.footer__column ul li {
+  margin-bottom: 10px;
+}
+
+.footer__column ul li:last-of-type {
+  margin-bottom: 0;
+}

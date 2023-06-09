@@ -1,0 +1,10 @@
+@import url(./__container/palkin__container.css);
+@import url(./__author/palkin__author.css);
+@import url(./__title/palkin__title.css);
+@import url(./__quote/palkin__quote.css);
+@import url(./__book-container/palkin__book-container.css);
+@import url(./__buy-link/palkin__buy-link.css);
+
+.palkin {
+  background-color: #f2f2f2;
+}

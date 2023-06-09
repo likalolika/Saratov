@@ -1,0 +1,14 @@
+.palkin__buy-link {
+  margin-left: 48px;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 42px;
+  color: #234857;
+  text-decoration: none;
+  align-self: flex-start;
+}
+.palkin__buy-link:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+  color: #e68200;
+}

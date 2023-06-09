@@ -1,0 +1,9 @@
+.section-title {
+  text-align: center;
+  font-size: 60px;
+  line-height: 1.15;
+  font-weight: 600;
+  color: #234857;
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}

@@ -1,0 +1,10 @@
+.industry__square {
+  width: 450px;
+  height: 450px;
+  border-radius: 10px;
+  background-color: #e68200;
+  position: absolute;
+  right: 100px;
+  bottom: -50px;
+  z-index: 1;
+}

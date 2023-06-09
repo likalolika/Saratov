@@ -1,0 +1,10 @@
+@import url(../section-title/_theme/section-title_theme_dark.css);
+@import url(../section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
+@import url(../table/_theme/table_theme_dark.css);
+@import url(../table/__cell/_theme/__cell_theme_dark.css);
+@import url(./__square/industry__square.css);
+.industry {
+  background-color: #234857;
+  padding: 90px 0 90px;
+  position: relative;
+}

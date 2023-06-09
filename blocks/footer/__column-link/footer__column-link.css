@@ -1,0 +1,8 @@
+.footer__column-link {
+  text-decoration: none;
+  color: #234857;
+}
+.footer__column-link:hover {
+  text-decoration: underline;
+  color: #e68200;
+}
